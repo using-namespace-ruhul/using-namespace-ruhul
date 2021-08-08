@@ -1,5 +1,5 @@
 ### Hi there 👋 It's Ruhul
-<img align="left" alt="gif" src="https://github.com/using-namespace-ruhul/community-classroom-/blob/master/gojo-satoru-jujutsu-kaisen.gif"right" alt="gif" src="" height="320" width="500">" height="320" width="500">
+<img align="left" alt="gif" src="https://github.com/using-namespace-ruhul/community-classroom-/blob/master/gojo-satoru-jujutsu-kaisen.gif" height="320" width="500">
 <img align="right" alt="gif" src="https://github.com/using-namespace-ruhul/community-classroom-/blob/master/USV0ym3bVWQJJmNu3N.gif" height="320" width="500">
 
 
