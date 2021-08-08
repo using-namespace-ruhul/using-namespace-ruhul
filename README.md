@@ -1,4 +1,5 @@
 ### Hi there 👋 It's Ruhul
+<hr>
 <img alt="gif" src="https://github.com/using-namespace-ruhul/community-classroom-/blob/master/gojo-satoru-jujutsu-kaisen.gif" height="90" width="190"><br>
 
 - 🔭 I’m currently working on ... my DSA skills.
