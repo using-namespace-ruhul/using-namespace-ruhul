@@ -1,5 +1,5 @@
 ### Hi there 👋 It's Ruhul
-![gojo-satoru-jujutsu-kaisen](https://user-images.githubusercontent.com/84025740/128627056-5d9fc5d6-4557-40cd-84a5-3c452d8d7866.gif) 
+<img align="right" alt="gif" src="https://github.com/using-namespace-ruhul/community-classroom-/blob/master/USV0ym3bVWQJJmNu3N.gif" height="320" width="500">
 
 
 
@@ -8,6 +8,4 @@
 - 💬 Ask me about ... DSA fundamentals.
 - 📫 How to reach me: ... ruhul.sardar143@gmail.com
 - ⚡ Fun fact: ... Don't know how to reverse a linked list.
-
-<p><img alt="gif" src="https://github.com/using-namespace-ruhul/community-classroom-/blob/master/USV0ym3bVWQJJmNu3N.gif" height="320" width="500"></p>
 
