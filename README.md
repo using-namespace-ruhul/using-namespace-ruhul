@@ -6,3 +6,4 @@
 - 📫 How to reach me: ... ruhul.sardar143@gmail.com
 - ⚡ Fun fact: ... Don't know how to reverse a linked list.
 -->
+<p><img align="right" alt="gif" src"https://tenor.com/view/gojo-satoru-jujutsu-kaisen-gif-19188408" width="320" height="500"></p>
